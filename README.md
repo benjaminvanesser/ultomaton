@@ -19,5 +19,6 @@ Hints:
 Hover the cursor over any button or section of the application to reveal hints on how to use ULTOMATON
 
 
-created by Benjamin Van Esser 2019
+created by Benjamin Van Esser - 2019
+
 www.benjaminvanesser.be
