@@ -12,7 +12,7 @@ Quick start:
 
 Mapping:
 
-Almost all parameters are available for MIDI- and Key-mapping. Use shortcuts 'm' for MIDI-mapping and 'k' for Key-mapping to enable mapping mode. Select the parameter you want to map and touch the control you want to map it to. To exit mapping mode, hit 'esc'.
+Almost all parameters are available for MIDI- and Key-mapping. Use shortcuts 'm' for MIDI-mapping and 'k' for Key-mapping to enable mapping mode. Select the parameter you want to map and touch the control you want to map it to. To exit mapping mode, hit 'esc'. Mappings can be saved and loaded in the mapping window.
 
 Hints:
 
