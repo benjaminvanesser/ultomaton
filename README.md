@@ -1,6 +1,6 @@
-ULTOMATON is an effects generator built to accompany any acoustic instrumentalist while improvising. It uses John Conway's 'Game of Life', a cellular automaton, to trigger events. These events are reflected in changes of ULTOMATON's effect parameters. 
+ULTOMATON is a generative effects processor built to provide live electronic accompaniment for any acoustic improviser. It uses John Conway's Game of Life to trigger events. These events are reflected in changes of Ultomaton's effect parameters.
 
-The Game of Life can be set to spawn life manually or based on the incoming attack of the performer. Although the Game of Life is at the very core of this application, ULTOMATON is very much a game of chance, which can be controlled by the performer to a great extent. As different settings have a considerable influence on the auditory result, ULTOMATON provides a myriad of electronic backdrops to improvise to. 
+Although the Game of Life is at the very core of this application, Ultomaton feels very much like a game of chance, which can be controlled by the performer to a great extent. As different settings have a considerable influence on the auditory result, Ultomaton provides a myriad of electronic backdrops to improvise with.
 
 Quick start:
 
